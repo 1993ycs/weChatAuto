@@ -28,5 +28,3 @@
 本着自愿原则进行赞助 
 
 
-![avatar](png/wxzf.jpg)
-![avatar](png/zfb.jpg)
